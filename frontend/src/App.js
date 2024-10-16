@@ -21,6 +21,8 @@ const App = () => {
              console.log(err); 
             })
 
+        setWord('');
+
     } //Handle Search 
   
   return (
